@@ -1,2 +1,3 @@
 # Projetos-Estudos
-Arquivos/links de de projetos e informações úteis para estudos.
+Repositório dos projetos e arquivos/links úteis para estudo.
+ - Git/GitHub (DIO) - "Criando o primeiro repositório"
